@@ -1,15 +1,22 @@
 # Руководство пользователя
-При запуске приложения,вы увидите главный экран (рис. 1), где вы можете выбрать тип игры. </br>
-<p align="center"><img src="https://pp.userapi.com/c841224/v841224848/5d692/LpmnB1tSZfQ.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 1 - главное меню</p></br>
+При запуске приложения,вы увидите главный экран (рис. 1), где вы можете выбрать тип игры.
+
+<p align="center"><img src="https://pp.userapi.com/c841224/v841224848/5d692/LpmnB1tSZfQ.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 1 - главное меню</p>
+
 При нажатии на кнопку "Играть", вам отобразится экран с одиночной игрой (рис. 2).
-<p align="center"><img src="https://pp.userapi.com/c824700/v824700848/9598b/JANt0W6bDY8.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 2 - одиночная игра</p></br>
+<p align="center"><img src="https://pp.userapi.com/c824700/v824700848/9598b/JANt0W6bDY8.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 2 - одиночная игра</p>
+
 На данном экране, в левом верхнем углу, показан ваш счёт, а в правом верхнем углу, ваше количество жизней. После прочтения факта, у вас есть выбор, нажать на кнопку "Правда" или на кнопку "Ложь". Если вы ответили правильно, тогда отобразится зелёный смайлик с комментарием к вопросу (рис. 3), иначе смайлик будет красный (рис. 4).
 
-<p align="center"><img src="https://pp.userapi.com/c840225/v840225848/75164/b2gPS4JyoBk.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 3 - правильный ответ</p></br>
-<p align="center"><img src="https://pp.userapi.com/c841126/v841126848/64356/MPbRrjzEWBQ.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 4 - неправильный ответ</p></br>
+<p align="center"><img src="https://pp.userapi.com/c840225/v840225848/75164/b2gPS4JyoBk.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 3 - правильный ответ</p>
+
+<p align="center"><img src="https://pp.userapi.com/c841126/v841126848/64356/MPbRrjzEWBQ.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 4 - неправильный ответ</p>
+
 
 Чтобы перейти к следующему вопросу, то нужно нажать на кнопку "Следующий".
 Если у вас закончатся "Жизни", то у вас отобразится экран (рис. 5), где в верхнем левом углу, будет отображен ваш счёт, а в правом верхнем углу, будет отображен ваш лучший счёт. При нажатии на кнопку "Попробовать ещё раз", вы начнёте заново игру. При нажатии на копку "Выйти в главное меню", у вас отобразится главное меню (рис. 1).
-<p align="center"><img src="https://pp.userapi.com/c824604/v824604848/97325/u7qd4dA6_48.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 5 - экран поражения</p></br>
+<p align="center"><img src="https://pp.userapi.com/c824604/v824604848/97325/u7qd4dA6_48.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 5 - экран поражения</p>
+
 Если вы нажмете на кнопку "На двоих", то отобразится экран игры на двоих игроков (рис. 6). Если вы ответите правильно, тогда вам прибавится одно очко, если-же вы ответите неверно, то очко прибавится вашему оппоненту. Игра ведется до 10 очков, после чего будет отображен итог игры, и вы будете перенаправлены на главный экран(рис. 1). 
-<p align="center"><img src="https://pp.userapi.com/c834301/v834301848/979d4/bCE4Z5WrApU.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 6 - игра на двоих</p></br>
+<p align="center"><img src="https://pp.userapi.com/c834301/v834301848/979d4/bCE4Z5WrApU.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 6 - игра на двоих</p>
+
