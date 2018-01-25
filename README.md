@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Руководство пользователя
+При запуске приложения,вы увидите главный экран (рис. 1), где вы можете выбрать тип игры. </br>
+<p align="center"><img src="https://pp.userapi.com/c841224/v841224848/5d692/LpmnB1tSZfQ.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 1 - главное меню</p></br>
+При нажатии на кнопку "Играть", вам отобразится экран с одиночной игрой (рис. 2).
+<p align="center"><img src="https://pp.userapi.com/c824700/v824700848/9598b/JANt0W6bDY8.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 2 - одиночная игра</p></br>
+На данном экране, в левом верхнем углу, показан ваш счёт, а в правом верхнем углу, ваше количество жизней. После прочтения факта, у вас есть выбор, нажать на кнопку "Правда" или на кнопку "Ложь". Если вы ответили правильно, тогда отобразится зелёный смайлик с комментарием к вопросу (рис. 3), иначе смайлик будет красный (рис. 4).
 
-You can use the [editor on GitHub](https://github.com/PunterTheSlayer/ToF_Documentation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center"><img src="https://pp.userapi.com/c840225/v840225848/75164/b2gPS4JyoBk.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 3 - правильный ответ</p></br>
+<p align="center"><img src="https://pp.userapi.com/c841126/v841126848/64356/MPbRrjzEWBQ.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 4 - неправильный ответ</p></br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PunterTheSlayer/ToF_Documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Чтобы перейти к следующему вопросу, то нужно нажать на кнопку "Следующий".
+Если у вас закончатся "Жизни", то у вас отобразится экран (рис. 5), где в верхнем левом углу, будет отображен ваш счёт, а в правом верхнем углу, будет отображен ваш лучший счёт. При нажатии на кнопку "Попробовать ещё раз", вы начнёте заново игру. При нажатии на копку "Выйти в главное меню", у вас отобразится главное меню (рис. 1).
+<p align="center"><img src="https://pp.userapi.com/c824604/v824604848/97325/u7qd4dA6_48.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 5 - экран поражения</p></br>
+Если вы нажмете на кнопку "На двоих", то отобразится экран игры на двоих игроков (рис. 6). Если вы ответите правильно, тогда вам прибавится одно очко, если-же вы ответите неверно, то очко прибавится вашему оппоненту. Игра ведется до 10 очков, после чего будет отображен итог игры, и вы будете перенаправлены на главный экран(рис. 1). 
+<p align="center"><img src="https://pp.userapi.com/c834301/v834301848/979d4/bCE4Z5WrApU.jpg" height="40%" width="40%" align="middle"></p> <p align="center">рис. 6 - игра на двоих</p></br>
